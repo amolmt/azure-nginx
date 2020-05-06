@@ -15,7 +15,7 @@ variables:
   webAppName: 'azure-nginx'
   
   # Environment name
-  environmentName: ''
+  environmentName: 'azure-nginx-env'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
